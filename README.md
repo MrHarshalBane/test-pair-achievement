@@ -16,3 +16,6 @@ feat: add collaborative test commit
 
 Co-authored-by: CollaboratorName <collaborator_email@example.com>
 ```
+
+## 📖 Guides
+- See [COLLABORATION.md](COLLABORATION.md) for pair programming documentation and contributor roles.
